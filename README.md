@@ -15,9 +15,11 @@ Unther other assignments, this project is best formulated as a story. Included i
 
 ## How to run  
 
-Navagate to the appropriate folder
+Make sure to have pyspark, and numpy installed where you plan to clone the project, and also Seaborn if you wish to view the data visually.
 
-use
+1. Clone the project
+2. CD to the appropriate folder
+3. use
 ```
 pyspark
 ```
